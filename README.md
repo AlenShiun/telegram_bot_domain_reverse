@@ -10,7 +10,7 @@
 4. Setup your telegram token in the end of django_project/telegram_bot/telegram_bot/settings.py
 ```
 TELEGRAM_BOT_TOKEN = {
-        'domain': '123456789',
+        'domain': 'YOUR TELEGRAM BOT TOKEN HERE',
 }
 ```
 
