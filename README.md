@@ -16,7 +16,15 @@ TELEGRAM_BOT_TOKEN = {
 
 5. Run init_all.sh
 6. Run run_all.sh
-7. Open your browser and go to web site with HOST_NAME
+7. Open your browser and go to web site with HOST_NAME, You may see a error page that can NOT parse JSON, ignore this error!
+8. Open your telegram and talk with your bot
+```
+You
+  /d github.com
+Bot
+  Domain: github.com
+  140.82.113.3
+```
 
 ## Versioning
 
