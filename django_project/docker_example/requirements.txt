@@ -1,5 +1,5 @@
 -i https://pypi.org/simple
-django==2.2.5
+django==2.2.8
 pytz==2019.1
 sqlparse==0.3.0
 uwsgi==2.0.18
