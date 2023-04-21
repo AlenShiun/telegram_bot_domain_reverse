@@ -1,6 +1,6 @@
 -i https://pypi.org/simple
 django==2.2.5
 pytz==2019.1
-sqlparse==0.3.0
+sqlparse==0.4.4
 uwsgi==2.0.18
 
