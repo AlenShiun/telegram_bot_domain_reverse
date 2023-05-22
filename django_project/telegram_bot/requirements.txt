@@ -4,5 +4,5 @@ pytz==2019.1
 sqlparse==0.3.0
 uwsgi==2.0.18
 dnspython==1.16.0
-requests==2.22.0
+requests==2.31.0
 
